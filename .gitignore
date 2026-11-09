@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+storage/index.sqlite*
+storage/vector_db/*
+!storage/vector_db/.gitkeep
+storage/.index_version
+sample_corpus/
+.pytest_cache/
